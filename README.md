@@ -1,7 +1,7 @@
-# hi, im esma !
-💻 first-year computer science student at City St George's, University of London
+# - !
+first year computer science student at City St George's
 
-interested in creative coding & web development projects
+interested in creative coding projects
 
 check out my most recent project ! 
 [Hot Beans Website](https://esmae1.github.io/hotbeanswebsite)
