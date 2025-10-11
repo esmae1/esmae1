@@ -1,4 +1,4 @@
-# !
+# ✦
 computer science undergraduate @ City St George's
 
 interested in creative coding projects
