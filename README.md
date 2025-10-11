@@ -1,5 +1,5 @@
 # !
-first year computer science student at City St George's
+computer science undergraduate @ City St George's
 
 interested in creative coding projects
 
