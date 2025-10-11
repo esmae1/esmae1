@@ -1,8 +1,8 @@
-# Hi, I'm Esma 👋
-💻 First-year Computing student at [Your University]  
-Interested in Creative Coding & Web Development projects
+# hi, im esma !
+💻 first-year computer science student at City St George's, University of London
+interested in creative coding & web development projects
 
-Check out my most recent project ! 
+check out my most recent project ! 
 [Hot Beans Website](https://esmae1.github.io/hotbeanswebsite)
 
 reach me @ (https://www.linkedin.com/in/esmaerdel/)
