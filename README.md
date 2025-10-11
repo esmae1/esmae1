@@ -1,5 +1,6 @@
 # hi, im esma !
 💻 first-year computer science student at City St George's, University of London
+
 interested in creative coding & web development projects
 
 check out my most recent project ! 
