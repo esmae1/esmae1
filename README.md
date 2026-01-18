@@ -1,7 +1,7 @@
 # ✦
-computer science undergraduate @ City St George's
+Computer Ccience Undergraduate @ City St George's
 
-interested in creative coding projects
+interested in software engineering & creative coding projects
 
 check out my most recent project ! 
 [Hot Beans Website](https://esmae1.github.io/hotbeanswebsite)
