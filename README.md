@@ -1,5 +1,5 @@
 # ✦
-Computer Ccience Undergraduate @ City St George's
+Computer Science Undergraduate @ City St George's
 
 interested in software engineering & creative coding projects
 
